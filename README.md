@@ -86,7 +86,9 @@ sudo ./kiwix-serve -d -p 8181 -v *.zim > kiwix.log
 ##### Kill daemonized process
 sudo kill $(ps -e | grep kiwix-serve)
 
-
+## serve multiple zim files
+https://zer09er.blogspot.com/2020/04/how-to-install-and-configure-kiwix.html
+https://www.rickmakes.com/offline-wikipedia-on-wired-raspberry-pi-using-kiwix/
 
 ###  Content - mirrors
 https://www.mirrorservice.org/sites/download.kiwix.org/zim/wikipedia/
